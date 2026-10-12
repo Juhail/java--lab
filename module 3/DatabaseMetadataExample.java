@@ -7,7 +7,7 @@ public class DatabaseMetadataExample {
 
         String url = "jdbc:mysql://localhost:3306/studentdb";
         String username = "root";
-        String password = "aBi@#4558/";
+        String password = "Password";
 
         try (
             Connection con = DriverManager.getConnection(
